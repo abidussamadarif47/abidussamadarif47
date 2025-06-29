@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abidus Samad Arif</h1>
+<h1 align="center">Hi , I'm Abidus Samad Arif</h1>
 <h3 align="center">Aspiring Software Engineer | CSE Student | Cybersecurity Enthusiast</h3>
 
 <p align="center">
