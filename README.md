@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | CSE Student | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=I+Love+Problem+Solving;Coding+is+My+Superpower;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=I+Love+Problem+Solving;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
