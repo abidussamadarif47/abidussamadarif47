@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Abidus Samad Arif</h1>
+<h1 align="center">Hi, I'm Abidus Samad Arif</h1>
 <h3 align="center">Aspiring Software Engineer | CSE Student | Cybersecurity Enthusiast</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 ---
-https://visitor-badge.glitch.me/
+
 ### 🔗 Connect with me:
 
 <p align="left">
@@ -43,6 +43,10 @@ https://visitor-badge.glitch.me/
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abidussamadarif47&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidussamadarif47&theme=radical" width="48%" />
+</p>
+
+<p align="left">
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abidussamadarif47)
 </p>
 
 ---
