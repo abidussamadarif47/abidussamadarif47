@@ -45,9 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidussamadarif47&theme=radical" width="48%" />
 </p>
 
-<p align="left">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abidussamadarif47)
-</p>
 
 ---
 
